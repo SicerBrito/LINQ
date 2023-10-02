@@ -1,0 +1,14 @@
+c:\Users\APM01-53\Desktop\Linq\Introduccion\bin\Debug\net7.0\Introduccion.exe
+c:\Users\APM01-53\Desktop\Linq\Introduccion\bin\Debug\net7.0\Introduccion.deps.json
+c:\Users\APM01-53\Desktop\Linq\Introduccion\bin\Debug\net7.0\Introduccion.runtimeconfig.json
+c:\Users\APM01-53\Desktop\Linq\Introduccion\bin\Debug\net7.0\Introduccion.dll
+c:\Users\APM01-53\Desktop\Linq\Introduccion\bin\Debug\net7.0\Introduccion.pdb
+c:\Users\APM01-53\Desktop\Linq\Introduccion\obj\Debug\net7.0\Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\APM01-53\Desktop\Linq\Introduccion\obj\Debug\net7.0\Introduccion.AssemblyInfoInputs.cache
+c:\Users\APM01-53\Desktop\Linq\Introduccion\obj\Debug\net7.0\Introduccion.AssemblyInfo.cs
+c:\Users\APM01-53\Desktop\Linq\Introduccion\obj\Debug\net7.0\Introduccion.csproj.CoreCompileInputs.cache
+c:\Users\APM01-53\Desktop\Linq\Introduccion\obj\Debug\net7.0\Introduccion.dll
+c:\Users\APM01-53\Desktop\Linq\Introduccion\obj\Debug\net7.0\refint\Introduccion.dll
+c:\Users\APM01-53\Desktop\Linq\Introduccion\obj\Debug\net7.0\Introduccion.pdb
+c:\Users\APM01-53\Desktop\Linq\Introduccion\obj\Debug\net7.0\Introduccion.genruntimeconfig.cache
+c:\Users\APM01-53\Desktop\Linq\Introduccion\obj\Debug\net7.0\ref\Introduccion.dll
